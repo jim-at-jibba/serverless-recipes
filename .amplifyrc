@@ -1,0 +1,14 @@
+{
+    "providers": {
+        "awscloudformation": {
+            "AuthRoleName": "recipes-20181016073412-authRole",
+            "UnauthRoleArn": "arn:aws:iam::892323868332:role/recipes-20181016073412-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::892323868332:role/recipes-20181016073412-authRole",
+            "Region": "eu-west-1",
+            "DeploymentBucketName": "recipes-20181016073412-deployment",
+            "UnauthRoleName": "recipes-20181016073412-unauthRole",
+            "StackName": "recipes-20181016073412",
+            "StackId": "arn:aws:cloudformation:eu-west-1:892323868332:stack/recipes-20181016073412/7e9898f0-d10d-11e8-840d-50a68642b229"
+        }
+    }
+}
